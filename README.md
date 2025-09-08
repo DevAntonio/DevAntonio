@@ -52,45 +52,47 @@ Sou apaixonado por criar soluções eficientes e escaláveis, aplicando a metodo
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4 align="left">Linguagens de Programação</h4>
+<h4 align="left">Linguagens</h4>
 <div align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSharp-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#"/>
+</div>
+<h4 align="left">Frameworks (Backend & Frontend)</h4>
+<div align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vue.js-4FC08D%3Fstyle%3Dfor-the-badge%26logo%3Dvuedotjs%26logoColor%3Dwhite" alt="Vue.js"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Svelte-FF3E00%3Fstyle%3Dfor-the-badge%26logo%3Dsvelte%26logoColor%3Dwhite" alt="Svelte"/>
+</div>
+<h4 align="left">Banco de Dados</h4>
+<div align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQLite-003B57%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite" alt="SQLite"/>
 </div>
 </td>
 <td width="50%" valign="top">
-<h4 align="left">Frameworks & Tecnologias</h4>
+<h4 align="left">Ferramentas de Design & Prototipagem</h4>
 <div align="left">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WildFly-000000%3Fstyle%3Dfor-the-badge%26logo%3Dwildfly%26logoColor%3Dwhite" alt="WildFly"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Quant--UX-8A2BE2%3Fstyle%3Dfor-the-badge" alt="Quant-UX"/>
 </div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4 align="left">Banco de Dados</h4>
+<h4 align="left">Metodologias & Gerenciamento</h4>
 <div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Elasticsearch-005571%3Fstyle%3Dfor-the-badge%26logo%3Delasticsearch%26logoColor%3Dwhite" alt="Elasticsearch"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scrum-0077c8%3Fstyle%3Dfor-the-badge" alt="Scrum"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kanban-4D90F0%3Fstyle%3Dfor-the-badge" alt="Kanban"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Trello-0079BF%3Fstyle%3Dfor-the-badge%26logo%3Dtrello%26logoColor%3Dwhite" alt="Trello"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Planner-31752F%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftplanner%26logoColor%3Dwhite" alt="Planner"/>
 </div>
-</td>
-<td width="50%" valign="top">
-<h4 align="left">Segurança & DevOps</h4>
+<h4 align="left">Microsoft Office Suite</h4>
 <div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="Kubernetes"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitLab-FCA121%3Fstyle%3Dfor-the-badge%26logo%3Dgitlab%26logoColor%3Dwhite" alt="GitLab"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Word-2B579A%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftword%26logoColor%3Dwhite" alt="Word"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Excel-217346%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftexcel%26logoColor%3Dwhite" alt="Excel"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PowerPoint-B7472A%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftpowerpoint%26logoColor%3Dwhite" alt="PowerPoint"/>
 </div>
 </td>
 </tr>
