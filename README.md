@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagem/GIF Principal -->
-  <img src="assets/gif01.gif" alt="GIF animado de programação" width="800px"/>
+  <img src="https://raw.githubusercontent.com/DevAntonio/uptwo/main/assets/gif01.gif" alt="GIF animado de programação" width="800px"/>
 
   <br><br>
 
@@ -16,28 +16,12 @@
   <a href="mailto:jcn0210a@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/EMAIL-jcn0210a%40gmail.com-D94E40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://wa.me/5561981015577" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WHATSAPP-(61)%2098101--5577-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="https://linkedin.com/in/antonio-jose" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN-antonio--jose-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.google.com/maps/place/Bras%C3%ADlia,+DF" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LOCAL-Bras%C3%ADlia,%20DF-007EC6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Local">
+  <a href="https://www.google.com/maps/place/Bras%C3%ADlia%2C%20DF" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LOCAL-Bras%C3%ADlia%2C%20DF-007EC6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Local">
   </a>
-</div>
-
-<hr>
-
-<!-- Seção Sobre Mim -->
-<div id="user-content-about-me" align="center">
-  <h2 align="left">📖 Sobre Mim</h2>
-  <p align="left">
-    Desenvolvedor de software com sólida formação técnica pelo SENAC e atualmente cursando Ciência da Computação. 
-    Possuo experiência prática liderando equipes de frontend no desenvolvimento de projetos acadêmicos com Python (Flask), 
-    JavaScript e bancos de dados como MySQL e SQLite.
-    <br><br>
-    Sou apaixonado por criar soluções eficientes e escaláveis, aplicando a metodologia Scrum para garantir agilidade e 
-    qualidade nas entregas. Busco uma oportunidade para colaborar em um ambiente inovador, onde eu possa aplicar e expandir 
-    minhas habilidades em desenvolvimento de software.
-  </p>
 </div>
 
 <hr>
@@ -115,10 +99,10 @@
 <div id="user-content-academic-formation" align="center">
   <h2 align="left">🎓 Formação Acadêmica</h2>
   <p align="left">
-    <strong>Graduação em Ciência da Computação</strong> (Cursando | 2025-2029) - Universidade Estácio de Sá
+    <strong>Graduação em Ciência da Computação (Cursando | 2025-2029)</strong> - Universidade Estácio de Sá
     <br>
-    <strong>Técnico em Desenvolvimento de Sistemas</strong> (Concluído | 2024-2025) - Serviço Nacional de Aprendizagem Comercial (SENAC/DF)
+    <strong>Técnico em Desenvolvimento de Sistemas (Concluído | 2024-2025)</strong> - Serviço Nacional de Aprendizagem Comercial (SENAC/DF)
     <br>
-    <strong>Programador de Sistemas</strong> (Cursando | 2025-2025) - Serviço Nacional de Aprendizagem Comercial (SENAC/DF)
+    <strong>Programador de Sistemas (Cursando | 2025-2025)</strong> - Serviço Nacional de Aprendizagem Comercial (SENAC/DF)
   </p>
 </div>
